@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176381068062",
+    "project_id": "smartgpro-ab46a",
+    "storage_bucket": "smartgpro-ab46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176381068062:android:cd0a09fe91480ab07cbf0f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpakmo72CjNteBgANHH__FipuSiBuZ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
