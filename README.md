@@ -1,16 +1,11 @@
-# myapp
+📱 Face Landmarks Detection (Flutter)
+A cross-platform mobile app that detects facial keypoints (eyes, nose, mouth) in real-time using a deep learning model.
 
-A new Flutter project.
+✨ Key Features
+Real-time Detection: Camera stream processing with <100ms latency (device-dependent)
 
-## Getting Started
+Lightweight Model: TFLite-optimized CNN (e.g., MobileNetV2 or custom architecture)
 
-This project is a starting point for a Flutter application.
+Platform Support: Android/iOS (Flutter) + optional web/desktop
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interactive UI: Visualizes 68+ facial points with smooth animations
